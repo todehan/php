@@ -8,7 +8,7 @@
 # Gereksinimler
 
 - Projenin çalışması PHP Server, MySQL ve Apace2 olması gerekmektedir.
-- Öneri olarak veritabanını rahat kontrol etmek için için phpMyAdmin kullanabilirsiniz.
+- Öneri olarak veritabanını daha rahat kontrol etmek için için phpMyAdmin kullanabilirsiniz.
 - MySQL ile aşağıda belirtilen gibi tablo ve sütunlarını oluşturmalısınız.
 
 
