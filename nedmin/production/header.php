@@ -42,7 +42,7 @@ if($say==0){
      
     
 
-    <title>Admin Paneli | Erasmus+ Bülteni Video</title>
+    <title>Admin Paneli</title>
 
     <!-- Bootstrap -->
     <link href="../vendors/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
