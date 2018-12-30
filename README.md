@@ -5,7 +5,7 @@
 
 
 
-# Gereksinimler
+# Gereksinimler -
 
 - Projenin çalışması PHP Server, MySQL ve Apace2 olması gerekmektedir.
 - Öneri olarak veritabanını daha rahat kontrol etmek için için phpMyAdmin kullanabilirsiniz.
