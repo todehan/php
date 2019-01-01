@@ -3,7 +3,10 @@
 - Bu admin paneli ile site içindeki temel kontrol edilebilir kısımların arayüz ile düzenlenebilmesi sağlanmıştır. 
 - Kodlar açık kaynaktır ve isteyen projelerinde kullanabilir.
 
+# Bilgi
 
+- Panel son halinde değildir fakat çalışır durumdadır. 
+- İstediğiniz özellikleri, diğer .php sayfalarını kopyalayıp, düzenleyip kullanabilirsiniz.
 
 # Gereksinimler 
 
